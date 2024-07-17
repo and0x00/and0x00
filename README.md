@@ -1,9 +1,9 @@
-# Buy Me a Coffee ☕
+#### Security Researcher && Penetration Tester
 
-If I helped you in some way, I can help you even more with coffee ...
-
-- **Litecoin (LTC)**: `LZj53EihgZkdxRaRDsgREbsuJMj93jwwY7`
-- **Bitcoin (BTC)**: `bc1qt69d0x9wk9558h00x4r856ucx9w5z9kz4vk0pv`
-- **Monero (XMR)**: `47v9RMQdDSscQ8WjkSaF9XRvKUuGsBM1B7bc33qLdH5HTrbAgZvL8ic1haLgP1NX7jd9QdFxwB6JpaRZH1wG9tM4BUpHm61`
-
-I appreciate your support! ❤️
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Job Offers &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [[https://www.linkedin.com/in/and0x00/](https://www.linkedin.com/in/and0x00/)]<br>
+Contact me on Twitter - [[https://twitter.com/and0x00](https://twitter.com/and0x00)]<br>
+&nbsp;Research & Writeups &nbsp;- [[https://and0x00.com](https://and0x00.com)]<br>
+<br>
+Open to any private program invites (mainly web/wide scope focused)<br>
+<br>
+[and0x00@wearehackerone.com](mailto:and0x00@wearehackerone.com)

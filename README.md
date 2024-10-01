@@ -8,8 +8,7 @@ Open to any private program invites (mainly web/wide scope focused)<br>
 <br>
 [and0x00@protonmail.com](mailto:and0x00@protonmail.com)
 ___
-<a href="https://donate.stripe.com/7sI29z9js2draModQR" rel="nofollow" target="_blank">
-    <img src="buy_me_a_coffee.gif" 
-    alt="Buy Me A Coffee" 
-    width="150" />
+<a href="https://donate.stripe.com/7sI29z9js2draModQR" target="_blank" rel="noopener noreferrer">
+    <img src="buy_me_a_coffee.gif" alt="Buy Me A Coffee" width="150" />
 </a>
+

@@ -6,4 +6,10 @@ Contact me on Twitter - [[https://twitter.com/and0x00](https://twitter.com/and0x
 <br>
 Open to any private program invites (mainly web/wide scope focused)<br>
 <br>
-[and0x00@wearehackerone.com](mailto:and0x00@wearehackerone.com)
+[and0x00@protonmail.com](mailto:and0x00@protonmail.com)
+___
+<a href="https://donate.stripe.com/7sI29z9js2draModQR" rel="nofollow" target="_blank">
+    <img src="buy_me_a_coffee.gif" 
+    alt="Buy Me A Coffee" 
+    width="150" />
+</a>

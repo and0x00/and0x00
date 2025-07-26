@@ -7,9 +7,3 @@ Connect with me on LinkedIn – [https://www.linkedin.com/in/and0x00/](https:/
 Open to private bug‑bounty invitations, especially web or wide‑scope programs.  
 
 and0x00@protonmail.com  
-
----  
-
-<a href="https://donate.stripe.com/7sI29z9js2draModQR">
-    <img src="buy_me_a_coffee.gif" alt="Buy Me a Coffee" width="150" />
-</a>
